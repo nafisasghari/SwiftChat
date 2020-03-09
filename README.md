@@ -4,4 +4,6 @@ This project has been done in 3 weeks at [Insight data science fellows program](
 
 ## Prerequisites
 Install requirements.txt
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
